@@ -1,0 +1,30 @@
+{
+  "__comment__": "This file was automatically created by redstoneguy10ls",
+    "loader": "forge:separate_transforms",
+    "gui_light": "front",
+    "overrides": [
+    {
+      "predicate": {
+        "tfc:throwing": 1
+      },
+      "model": "ifc:item/bone/javelin/lightning_throwing"
+    }
+  ],
+  "base": {
+    "parent": "ifc:item/bone/javelin/lightning_in_hand"
+  },
+  "perspectives": {
+    "none": {
+      "parent": "ifc:item/bone/javelin/lightning_gui"
+    },
+    "fixed": {
+      "parent": "ifc:item/bone/javelin/lightning_gui"
+    },
+    "ground": {
+      "parent": "ifc:item/bone/javelin/lightning_gui"
+    },
+    "gui": {
+      "parent": "ifc:item/bone/javelin/lightning_gui"
+    }
+  }
+}

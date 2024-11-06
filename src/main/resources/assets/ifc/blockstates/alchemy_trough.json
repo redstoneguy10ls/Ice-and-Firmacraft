@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "filled=0": {
+      "model": "ifc:block/alchemy_trough"
+    },
+    "filled=1": {
+      "model": "ifc:block/alchemy_trough_fire"
+    },
+    "filled=2": {
+      "model": "ifc:block/alchemy_trough_ice"
+    },
+    "filled=3": {
+      "model": "ifc:block/alchemy_trough_lightning"
+    }
+  }
+}

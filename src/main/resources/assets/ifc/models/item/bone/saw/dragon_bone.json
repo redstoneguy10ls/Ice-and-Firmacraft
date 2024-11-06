@@ -1,0 +1,7 @@
+{
+  "__comment__": "This file was automatically created by redstoneguy10ls",
+  "parent": "item/handheld",
+    "textures": {
+    "layer0": "ifc:item/bone/saw/dragon_bone"
+  }
+}
